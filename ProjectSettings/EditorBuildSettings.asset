@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 214a01f314170c546bf6968e1519455c
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 4b87f4982aa38bc4cbee7ef40ca239d3
+  - enabled: 1
+    path: Assets/Scenes/Desert Level 1.unity
+    guid: fcb4c74fe9836c3468a468af52b83a5c
+  - enabled: 1
+    path: Assets/Scenes/levelSelect.unity
+    guid: 76bdb68202023664688986cf5f23c066
+  - enabled: 1
+    path: Assets/Scenes/North Pole Level 1.unity
+    guid: 142e446f416a16844afac9e9fddd5771
+  - enabled: 0
+    path: Assets/Scenes/Rainforest Level.unity
+    guid: 16873602da0d49a44be2ca2011ed668e
+  - enabled: 1
+    path: Assets/Scenes/Rainforest Level 1.unity
+    guid: 891028cca48fdc548a063f9a8d2387ae
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 70dd8a396855ec740ba21d1dadf90c5e
+  - enabled: 1
+    path: Assets/Scenes/Urban Level 1.unity
+    guid: 2bdcf3bd197ea9749b49543eb94cf826
+  - enabled: 1
+    path: Assets/Scenes/Lore.unity
+    guid: c8027db5fd777594a99f522d7467654c
+  m_configObjects: {}
